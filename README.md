@@ -2,6 +2,7 @@
 Deploy Kubernetes Cluster on any gcloud ( 90 days Free trail for demo) or can be paid 
 https://console.cloud.google.com/ register with ne user adn all detail and login
 
+Please refer Kube-doc and automate deployment pdf files based
 
 
 Download the attached and deploy as below mentioned commands
