@@ -28,4 +28,13 @@ Download the attached and deploy as below mentioned commands
     kubectl describe pod mongodb-deployment-xxxxxx
     kubectl describe service mongodb-service
     kubectl logs mongo-express-xxxxxx
+    
+    #####automate deployments###############
+    
+Edit code or configuration .YML
+Push it to your Git repository
+Build a new Docker image
+Push the Docker image
+Log in to your K8s cluster
+Run kubectl apply or kubectl set image
 
