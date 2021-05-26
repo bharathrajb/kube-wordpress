@@ -31,10 +31,15 @@ Download the attached and deploy as below mentioned commands
     
     #####automate deployments###############
     
-Edit code or configuration .YML
-Push it to your Git repository
-Build a new Docker image
-Push the Docker image
-Log in to your K8s cluster
-Run kubectl apply or kubectl set image
+   Edit code or configuration .YML
+   
+   Push it to your Git repository
+   
+    Build a new Docker image
+    
+    Push the Docker image
+    
+   Log in to your K8s cluster
+   
+    Run kubectl apply or kubectl set image
 
